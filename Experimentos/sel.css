@@ -1,0 +1,49 @@
+body{
+    background: url(../Experimentos/OIP.jpeg) ;
+    background-attachment: fixed;
+}
+
+.first{
+    
+    background-color: cadetblue;
+    text-align: left;
+    border-radius: 10px;
+    font-size: large;
+    padding: 10px;
+}
+div{
+    border: 1px solid ;
+    background-color: burlywood;
+    margin: 20px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: large;
+    padding: 10px;
+   
+}
+h1{
+    text-align: center;
+    background-color: cadetblue;
+    border-radius: 30px;
+   
+   }
+   img{
+    border-radius: 20%;
+   }
+   p{
+    background-color: cadetblue;
+    font-size: x-large;
+    border-radius: 20px;
+    padding: 10px;
+   }
+   *{font-family: 'Times New Roman', Times, serif;}
+   h2{
+    text-align: center;
+   }
+   .contenedor{
+    display: inline-block;
+   }
+   hr{
+    color: solid black;
+   }
+
