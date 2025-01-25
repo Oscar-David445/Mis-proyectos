@@ -1,0 +1,14 @@
+.jefe{
+    display: flex;
+    background-color: burlywood;
+    border-radius: 20px;
+    flex-wrap:wrap;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    width: 700px;
+}
+img{
+    border-radius: 70%;
+    margin-right: 200px;
+}
