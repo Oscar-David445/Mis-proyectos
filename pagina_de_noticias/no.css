@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    width: 700px;
+    text-align: center;
+  }
+  .ol{background-color: blue;}
+  .bi{background-color: red;}
+  .bo{ background-color: brown;}
+  .bu{background-color: orange;}
+  li{padding-inline: 100px;
+margin: 5px;}
+  
+  h1{border-bottom:  5px solid black;}
+  div{height: 50px;}
+  .sub{border-bottom: none;}
+  img{border-radius: 10px;}
+  .not{font-size:large; padding: 25px;}
+  p{font-size:x-large; padding: 25px;}
+
+  *{font-family: 'Times New Roman', Times, serif;}
+  .nit{float: right;}
+  img{padding: 5px;}
+  footer{border-top: 5px solid black;}
+  .nut{color: rgb(13, 95, 218);}
+  .im{float: left;}
+
+ 

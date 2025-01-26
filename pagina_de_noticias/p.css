@@ -1,58 +1,40 @@
-.pros{
-    background-color: rgb(117, 120, 120);
-    margin: 80px;
-    padding: 20px;
-    width: 800px;
-    border-radius: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
+table{ width: 850px;
+padding: 10px;
+margin: 20px;}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    
 }
+ul {
+    list-style-type: none;
+    float:inline-start;
+    display: inline-flex;
+    width: 700px;
+    text-align: center;
+    margin: 10px;
+  }
+  .ol{background-color: blue; height: 50px;}
+  .bi{background-color: red;}
+  .bo{ background-color: brown;}
+  .bu{background-color: orange;}
+  li{padding-inline: 100px;margin: 5px;}
+  
+  h1{border-bottom: 5px solid black;}
+  
 
-ul{display: inline-flex;
-margin: 20px;
-padding: 20px;
-text-align: center;
-list-style-type: none;
-width: 90%;
-}
+  footer{border-top: 5px solid black;}
+  .secu{ background-color: rgb(100, 93, 93);border-radius: 5px;
+color: white;}
 
-h1{border-bottom: 5px solid black ;
-width: 300px;}
-.noti{
-    background-color: white;
-    margin: 20px;
-    border-radius: 20px;
-}
+img{padding: 3px;
+float: right;
+border-radius: 10px;}
+*{font-family: 'Times New Roman', Times, serif;}
+td{font-size:large;}
+.im{float: left;}
+.io{color: blue;}
+h2{border-left: 5px solid red;padding: 10px;}
 
-p{
- text-align: center;
-}
-img{
-   height: 150px;
-}
-
-.seg{margin: 20px;}
-
-.ter{margin: 20px;
-   
-}
-
-.ni{color: white;}
-.nun{color: white;}
-.no{border-radius: 20px;}
-
-footer{color: white;
-border-top: 5px solid black;
-}
-.ol{background-color: green;}
-.bi{background-color: blue;}
-.bo{background-color: red;}
-.bu{background-color: aquamarine;}
-
-a{color: white;}
-li{font-size: xx-large;
-}
-a{text-decoration: none;}
-.menu{padding-inline: 10px 10%;
-
-}
