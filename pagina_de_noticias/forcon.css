@@ -1,0 +1,30 @@
+footer{border-top: 5px solid black;}
+.ia{float: right; padding: 10px; border-radius: 10px;}
+.io{color: blue; }
+img{border-radius: 10px;}
+label{font-size: x-large;}
+*{font-family: 'Times New Roman', Times, serif;}
+input{width: 100%;padding: 20px; margin: 0%;}
+textarea{width: 100%;padding: 25px; margin: 0%;}
+.bro{background-color: bisque;height: 550px;}
+input :hover{background-color: rgb(41, 15, 206);}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    width: 700px;
+    text-align: center;
+  }
+  .ol{background-color: blue; height: 45px;}
+  .bi{background-color: red;}
+  .bo{ background-color: brown;}
+  .bu{background-color: orange;}
+  li{padding-inline: 100px;}
+  

@@ -35,4 +35,7 @@ text-align: center;}
 footer{border-top: 5px solid black;}
 .npt{float: right; margin: 05px;}
 .io{color: blue;}
+.form{background-color: gray;
+text-align: center; width: 200px;
+padding: 5px; height: 50px;}
 
