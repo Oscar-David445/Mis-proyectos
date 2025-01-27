@@ -10,7 +10,7 @@ a{
 }
 ul {
     list-style-type: none;
-    float:inline-start;
+   
     display: inline-flex;
     width: 700px;
     text-align: center;
@@ -37,4 +37,6 @@ td{font-size:large;}
 .im{float: left;}
 .io{color: blue;}
 h2{border-left: 5px solid red;padding: 10px;}
+
+li :hover{background-color: black;}
 
