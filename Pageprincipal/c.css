@@ -1,14 +1,39 @@
 .jefe{
     display: flex;
-    background-color: burlywood;
+  
     border-radius: 20px;
-    flex-wrap:wrap;
+    flex-wrap: wrap;
     justify-content: center;
-    padding: 20px;
-    margin: 10px;
-    width: 700px;
+    width: 800px;
+    margin: 0% 10px;
+    padding: 0% 10px;
+  
 }
 img{
     border-radius: 70%;
     margin-right: 200px;
 }
+.one{width: 230px;text-align: center;}
+
+.two{width: 230px;}
+
+.three{width: 230px;}
+
+.four{width: 230px;}
+
+.five{width: 230px;}
+
+.six{width: 230px;}
+
+.seven{width: 230px;}
+
+.eight{width: 230px;}
+
+.nine{width: 230px;}
+
+body{background:url(../Pageprincipal/R.jpeg)}
+
+h3{background-color: brown;
+margin: 20px;
+padding: 05px;
+opacity: 80%;}

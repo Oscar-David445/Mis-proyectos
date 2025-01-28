@@ -24,7 +24,7 @@ ul {
   
   h1{border-bottom: 5px solid black;}
   
-
+.ll{float: left;}
   footer{border-top: 5px solid black;}
   .secu{ background-color: rgb(100, 93, 93);border-radius: 5px;
 color: white;}
