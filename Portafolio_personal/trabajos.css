@@ -72,3 +72,7 @@ p{font-size: x-large;
     .nine{width: 300px;text-align: center;}
     p{background-color: black; color: white; width: 70%; border-radius: 100px;}
     *{font-family: 'Times New Roman', Times, serif;}
+
+    .foo{color: black; background-color: white;}
+    .mien{width: 200px;}
+    .trabas{background-color: rgb(193, 192, 192);}
