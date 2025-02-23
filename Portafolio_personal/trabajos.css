@@ -8,30 +8,12 @@ p{font-size: x-large;
     .put{float: right; margin: 5px; border-radius: 10px;}
     footer{border-top: 5px solid black;}
 
-    .menu:hover .contenido{
-        display: block;
-    }
     
-    .menu{display: inline-block;
-    position: relative;
-    }
-    
-        .contenido{ display: none;
-            position: absolute;
-            background-color: #f9f9f9;
-            min-width: 250px;
-            box-shadow: 0px 5px 5px 5px red;
-            padding: 12px 16px;
-            flex-wrap: wrap;
-            }
     
             .me{text-decoration: none;
             text-align: center;
            color: black; font-size: 20px;}
            
-    span{text-decoration:underline;
-        font-size: x-large;
-        color: red }
 
         nav {
             display: flex;
@@ -50,27 +32,38 @@ p{font-size: x-large;
         nav li{
            margin: 0 40px;}
 
-           .img{width: 400px; border-radius: 10px;}
-
            img:hover{transform: scale(1.1);}
 
            .traba{
-            display: inline-flex;
+            width: 90%;
+            display: flex;
             flex-wrap: wrap;
             padding: 10px;
-             margin: 0% 05px;
-             width: 98%;
-            background-color: rgb(193, 192, 192);}
+             margin: 0% 65px;
+            background-color: rgb(193, 192, 192);
+        border-radius: 20px;}
 
-           .one,.two,.fur,.five,.seven,.eight,.ten{
+           .one,.two,.four,.five,.seven,.eight,.ten{
             margin: 0% 8px;
              text-align: center;
             padding: 10px;}
+             
+            img{border-radius: 10px; margin: 0% 25px;}
+            .img{width: 400px; }
+            .img2{width: 190px;}
+            .img3{width: 170px;}
+            .img4{width: 330px;}
+            .img5{width: 310px;}
+            .img6{width: 300px;}
+            .img7{width: 300px;}
+            .img8{width: 300px;}
+            .img9{width: 220px;}
+            .img10{width: 300px;}
            
-    .three{width: 300px;text-align: center;}
+    .three{width: 250px;text-align: center;}
     .six{width: 300px; text-align: center;}
     .nine{width: 300px;text-align: center;}
-    p{background-color: black; color: white; width: 70%; border-radius: 100px;}
+    p{background-color: black; color: white; width: 90%; border-radius: 100px;}
     *{font-family: 'Times New Roman', Times, serif;}
 
     .foo{color: black; background-color: white;}

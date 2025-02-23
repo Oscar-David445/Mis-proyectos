@@ -20,6 +20,9 @@ nav li{
    margin: 0 40px;
 }
 
+div{
+    background-color: rgb(197, 197, 197);padding: 25px;
+    margin: 40px; border-radius: 20px;}
 
  a {
     color: white;
