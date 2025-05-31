@@ -1,0 +1,46 @@
+.img-fluidrounded-start{margin-top: 50px;
+border-radius: 10px;
+margin-left: -50px;
+width:130px;}
+
+  .card-title{
+    font-size: large;
+    padding-bottom: 20px;
+    color:rgb(189, 129, 17);
+    margin-left: -350px;
+    margin-top: 10px;
+  }
+/*Tarjeta completa*/
+  .cardmb-3{
+    background-image: url(/Card/fondo.jpg);
+    opacity: 100%;
+    margin-top: 200px;
+
+  }
+/*Texto*/
+  p{
+    color: white;
+    font-size: medium;
+    font-family: 'Times New Roman';
+    text-align: justify;
+  }
+
+  strong{margin-left: -30px;
+    font-size: large;}
+
+  /*imagen*/
+  .col-md-4{
+    
+  }
+ 
+
+  /*Area de texto*/
+  .card-body{
+    width: 550px;
+  }
+
+  /*Bandera*/
+  .esquina{width: 50px;
+border-radius: 5px;
+margin-left: 50px;
+margin-top: -50px;}
